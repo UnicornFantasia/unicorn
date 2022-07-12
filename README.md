@@ -1,4 +1,4 @@
-蘭 (Ran)
+(Ran)
 ===
 
 ## Features
